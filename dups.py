@@ -4,7 +4,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Callb
 import os
 
 # Replace 'YOUR_BOT_TOKEN' with your actual bot token
-updater = Updater(token='5897885316:AAH-aL9uCAWnClzNtM72EihMvkv28vkEzvo', use_context=True)
+updater = Updater(token='5897885316:AAF4mVUQm_M0jjTPEKWW6OsQixm6ywEB0-A', use_context=True)
 dispatcher = updater.dispatcher
 
 # Path to the "seen.txt" file
